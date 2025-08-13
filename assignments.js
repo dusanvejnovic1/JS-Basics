@@ -1,4 +1,4 @@
-// in this .js file we will finish 7 assignments  using what we learned so far
+// in this .js file we will finish 10 assignments  using what we learned so far
 
 // Assignment 1
 
