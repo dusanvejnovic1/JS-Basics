@@ -30,6 +30,9 @@ Optional:
 
 Option 1:
 
+- Inside a CLI navigate to repo folder
+- Run `node assignments.js` or `node index.js` commands depending on which script's functionality you wish to asses.
+- Observe the result while following comments in the .js file to assess functionality
 
 Option 2:
 
